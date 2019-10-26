@@ -193,4 +193,6 @@ I sell breakout boards with regulator, UPDI header, and Serial header in my tind
 ### [ATtiny412, 402 assembled](https://www.tindie.com/products/17685/)
 ### [ATtiny412/212/402/202 bare board](https://www.tindie.com/products/17749/)
 
+# Tutorial (youtube video)
+
 ### [bitluni's lab made a youtube tutorial for this package](https://www.youtube.com/watch?v=AL9vK_xMt4E)
