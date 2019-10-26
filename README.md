@@ -1,6 +1,5 @@
 [![Join the chat at https://gitter.im/SpenceKonde/megaTinyCore](https://badges.gitter.im/SpenceKonde/megaTinyCore.svg)](https://gitter.im/SpenceKonde/megaTinyCore?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-
 ### [Wiring](Wiring.md)
 ### [Installation](Installation.md)
 ### [Making a cheap UPDI programmer](MakeUPDIProgrammer.md)
@@ -193,3 +192,5 @@ I sell breakout boards with regulator, UPDI header, and Serial header in my tind
 ### [ATtiny1614/814/414/1604/804/404 bare board](https://www.tindie.com/products/17748/)
 ### [ATtiny412, 402 assembled](https://www.tindie.com/products/17685/)
 ### [ATtiny412/212/402/202 bare board](https://www.tindie.com/products/17749/)
+
+### [bitluni's lab made a youtube tutorial for this package](https://www.youtube.com/watch?v=AL9vK_xMt4E)
